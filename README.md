@@ -20,5 +20,7 @@ atomで追加
 これは`コードブロック`です。
 
 ```cs
-C#ブロック
+sealed ;
 ```
+
+yunity room [けん](https://twitter.com/9rjaFJRH3ovwSh5)
