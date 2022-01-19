@@ -4,47 +4,41 @@
 - 連絡先 Email [egawa.dat21@gmail.com](egawa.dat21@gmail.com)
 - 専門学校デジタルアーツ東京 ゲームプログラムコース 2023年卒業予定
 
-## 資格
 
 
 ## スキル
-- C#
-  - 利用歴1年
-  - どの程度使えるか
 - Unity
   - 利用歴1年
-  - どの程度使えるか
+  - かんたんなゲームの作成が可能
 - C/C++
   - 利用歴1年
-  - どの程度使えるか
+  - Visual Studioで簡単なデータ処理プログラムの作成が可能
 
 
 ## 取り組んでいるテーマ
-- 何か最低一つ考えてください
+- プレイヤーを操作しゴールを目指すアクションゲーム
 
 ## 作品リスト
 
-### 作品名1
-[<img src="images/game1.png" alt="作品名1" style="height: 360px">]()
+### くぼみを狙え
+[![a](image/2022-01-06093036.png)](https://unityroom.com/games/aim_for_the_dent)
 
-[作品名1]()
 
-作品概要
+くぼみを狙ってキューブを発射して嵌めるゲーム
+- 開発環境：unity
+- 開発期間：3日
 
-- 開発環境：
-- 開発期間：
+### ブロック崩し
+[![b](image/2022-01-19145757.png)](https://unityroom.com/games/bro)
 
-### 作品名2
-[<img src="images/game2.png" alt="作品名2" style="height: 360px">]()
 
-[作品名2]()
 
-作品概要
+珠を当ててブロックを消していくゲーム
 
-- 開発環境：
-- 開発期間：
+- 開発環境：unity
+- 開発期間：4日
 
 
 
 ## 連絡先
-- E-mail [a@a.a](mailto:a@a.a)
+- E-mail [egawa.dat21@gmail.com](egawa.dat21@gmail.com)
